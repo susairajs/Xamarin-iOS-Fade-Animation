@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamariniOSFadeAnimation", "XamariniOSFadeAnimation\XamariniOSFadeAnimation.csproj", "{403119D5-7FD9-4752-81A9-30B5B2E23D9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Release|iPhone.ActiveCfg = Release|iPhone
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Release|iPhone.Build.0 = Release|iPhone
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{403119D5-7FD9-4752-81A9-30B5B2E23D9F}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+EndGlobal
